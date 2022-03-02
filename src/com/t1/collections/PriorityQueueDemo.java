@@ -21,7 +21,7 @@ class Blob implements Comparable {
     @Override
     public int compareTo(Object o) {
         Blob b = (Blob)o;
-        return -1 *(this.x - b.x);
+        return this.x - b.x;
     }
 }
 

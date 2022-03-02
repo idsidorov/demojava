@@ -14,6 +14,7 @@ public class RectangularPizza extends Pizza {
         return b;
     }
 
+
     public RectangularPizza(double price, String name, double a, double b) {
         super(price, name);
         this.a = a;

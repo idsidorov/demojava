@@ -1,0 +1,2 @@
+CircularPizza{diameter=10.0, price=100.0, name='Four Cheese'}
+RectangularPizza{price=150.0, name='Margarita', a=10.0, b=20.0}
